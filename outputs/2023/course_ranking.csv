@@ -1,0 +1,12 @@
+rank,course,weighted_score,most_beneficial,neutral,least_beneficial,did_not_take,considered,favorability_pct
+1,ACC 6030 Financial Accounting Reporting,42,15,24,6,10,45,86.67
+2,ACC 6150 Info Sys Audit,41,21,1,1,32,23,95.65
+3,ACC 6420 Corporate Tax,28,12,6,1,36,19,94.74
+4,ACC 6250 Financial Reporting and Analysis,20,6,10,1,38,17,94.12
+5,ACC 6410 Tax Research & Procedure,19,9,3,1,42,13,92.31
+6,ACC 6140 Fraud Exam & Forensic Acc,19,9,7,3,36,19,84.21
+7,ACC 6600 Business Law for Accountants (if taken as an elective),18,9,2,1,43,12,91.67
+8,ACC 6350 Mgmt Control Sys (if taken as an elective),15,8,5,3,39,16,81.25
+9,ACC 6440 Partnership Tax,11,8,3,4,40,15,73.33
+10,ACC 679R Special Topics,2,1,0,0,54,1,100.00
+11,ACC 6610 Finance Statement Research,-3,7,3,10,35,20,50.00
