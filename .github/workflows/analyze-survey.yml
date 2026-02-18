@@ -1,0 +1,32 @@
+name: Analyze exit survey
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "2023 Grad Program Exit Survey Data Project One.xlsx"
+      - "scripts/analyze_exit_survey.py"
+      - ".github/workflows/analyze-survey.yml"
+
+jobs:
+  rank-courses:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run survey analysis
+        run: python scripts/analyze_exit_survey.py
+
+      - name: Upload outputs artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: survey-analysis-outputs
+          path: outputs/
+          if-no-files-found: error
