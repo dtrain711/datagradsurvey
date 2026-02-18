@@ -14,7 +14,7 @@ This workflow was much smoother and efficient. In Project 1, we had to use excel
 
 
 
-The control is now through the workflow in GitHub connected to Codex. I Project 1, the control was in the excel document itself. This took the workflow from the document, into an AI bot workflow.
+The control is now through the workflow in GitHub connected to Codex. In Project 1, the control was in the excel document itself. This took the workflow from the document, into an AI bot workflow.
 
 
 
@@ -31,6 +31,7 @@ I would keep the same workflow as this project and transition my prompts into mo
 
 
 I could apply this to my statistics class. We were given data sets, and I could use this workflow to easily recognize correlations and connections. This workflow would also be great to create graphs that show correlations between data points.
+
 
 
 
