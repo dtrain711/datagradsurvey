@@ -1,0 +1,13 @@
+{
+  "input_file": "2023 Grad Program Exit Survey Data Project One.xlsx",
+  "sheet_name": "MAcc Exit Survey - April 2023_O",
+  "year": "2023",
+  "responses_analyzed": 55,
+  "group_columns": {
+    "most_beneficial": "Please identify which MAcc Elective courses were the most and least beneficial to you?\n(Must drag and drop EACH course into your box of choice.) - Groups - Most Beneficial",
+    "neutral": "Please identify which MAcc Elective courses were the most and least beneficial to you?\n(Must drag and drop EACH course into your box of choice.) - Groups - Neutral",
+    "least_beneficial": "Please identify which MAcc Elective courses were the most and least beneficial to you?\n(Must drag and drop EACH course into your box of choice.) - Groups - Least Beneficial",
+    "did_not_take": "Please identify which MAcc Elective courses were the most and least beneficial to you?\n(Must drag and drop EACH course into your box of choice.) - Groups - Did not take"
+  },
+  "courses_ranked": 11
+}

@@ -1,0 +1,38 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='590' viewBox='0 0 1000 590'>
+<style>text{font-family:Arial,Helvetica,sans-serif;} .title{font-size:24px;font-weight:700;} .label{font-size:15px;} .score{font-size:14px;font-weight:700;} .subtitle{font-size:13px;fill:#444;} </style>
+<text x='40' y='36' class='title'>Top 10 Ranked Courses (2023)</text>
+<text x='40' y='56' class='subtitle'>Weighted score = (2 × most beneficial) + neutral − (2 × least beneficial)</text>
+<line x1='370' y1='50' x2='370' y2='570' stroke='#666' stroke-width='1'/>
+<rect x='370' y='56' width='560' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='68' class='label'>ACC 6030 Financial Accounting Reporting</text>
+<text x='938' y='72' class='score'>42</text>
+<rect x='370' y='104' width='546' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='116' class='label'>ACC 6150 Info Sys Audit</text>
+<text x='924' y='120' class='score'>41</text>
+<rect x='370' y='152' width='373' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='164' class='label'>ACC 6420 Corporate Tax</text>
+<text x='751' y='168' class='score'>28</text>
+<rect x='370' y='200' width='266' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='212' class='label'>ACC 6250 Financial Reporting and Analysis</text>
+<text x='644' y='216' class='score'>20</text>
+<rect x='370' y='248' width='253' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='260' class='label'>ACC 6410 Tax Research &amp; Procedure</text>
+<text x='631' y='264' class='score'>19</text>
+<rect x='370' y='296' width='253' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='308' class='label'>ACC 6140 Fraud Exam &amp; Forensic Acc</text>
+<text x='631' y='312' class='score'>19</text>
+<rect x='370' y='344' width='240' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='356' class='label'>ACC 6600 Business Law for Accountants (if</text>
+<text x='40' y='372' class='label'>taken as an elective)</text>
+<text x='618' y='360' class='score'>18</text>
+<rect x='370' y='392' width='200' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='404' class='label'>ACC 6350 Mgmt Control Sys (if taken as an</text>
+<text x='40' y='420' class='label'>elective)</text>
+<text x='578' y='408' class='score'>15</text>
+<rect x='370' y='440' width='146' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='452' class='label'>ACC 6440 Partnership Tax</text>
+<text x='524' y='456' class='score'>11</text>
+<rect x='370' y='488' width='26' height='24' fill='#2a6fdb' rx='4' ry='4' />
+<text x='40' y='500' class='label'>ACC 679R Special Topics</text>
+<text x='404' y='504' class='score'>2</text>
+</svg>
